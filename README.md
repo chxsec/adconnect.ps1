@@ -1,6 +1,6 @@
 ## Load into memory:
 ```
-import-module ./adconnect.psq
+import-module ./adconnect.ps1
 ```
 ## Get the ADConnect Password:
 ```
